@@ -1,4 +1,4 @@
-## Prodigy-infotech-Task-2-Titanic-Datasec
+## Prodigy-infotech-DS-Task-2-Titanic-Datasec
 Titanic Dataset predict how many people survived 
 
 #### project :- Titanic Dataset
